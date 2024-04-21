@@ -3,6 +3,9 @@ BMI Calculator app is a Body Mass Index Calculator inspired by the beautiful des
 # My Goal
 The objective of this project is to look at how I can customise Flutter Widgets to achieve my own beautiful user interface designs. If I have a designer on board, no matter how unconventional their designs are, I can create them using Flutter.
 
+## Visual Demo:
+A visual demonstration of my project (please wait for the GIF to load).
+
 <img src="https://raw.githubusercontent.com/amoufaq/BMI-Calculator/master/BMI%20Calculator%20app%20demo%20recording.gif" width="300" height="650">
 
 # What I learned
